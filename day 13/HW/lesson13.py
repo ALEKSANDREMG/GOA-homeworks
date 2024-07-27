@@ -1,0 +1,5 @@
+name=input("name:ალეხანდრე")
+lastname=input("lastname:მგალობლიშვილი")
+age=input("age:8")
+hight=input("hight:140სმ")
+wight=input("wight:30კგ")
